@@ -1,0 +1,7 @@
+TICKET_ID,CUSTOMER_ID,ISSUE_TYPE,PRIORITY,RESOLUTION_HOURS
+401,1,Login Issue,Low,12
+402,2,Loan Query,High,48
+403,3,Account Freeze,High,72
+404,4,KYC Update,Medium,24
+405,5,Card Issue,Low,8
+406,7,Loan Query,High,36

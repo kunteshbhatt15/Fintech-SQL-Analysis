@@ -1,0 +1,9 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,CITY,CREDIT_SCORE,REFERRAL_CODE
+1,Rahul,Sharma,rahul@gmail.com,Mumbai,760,REF101
+2,Priya,Patel,,Ahmedabad,810,
+3,Amit,Verma,amit@gmail.com,Delhi,680,REF102
+4,Sneha,Joshi,,Pune,720,
+5,Rohan,Mehta,rohan@gmail.com,Bangalore,790,REF103
+6,Karan,Singh,,Mumbai,640,
+7,Neha,Kapoor,neha@gmail.com,Delhi,830,REF104
+8,Arjun,Rao,,Hyderabad,710,
